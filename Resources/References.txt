@@ -1,0 +1,14 @@
+A technical overview of Azure Cosmos DB
+https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/
+
+8 things to know about Azure Cosmos DB (formerly DocumentDB)
+https://www.sqlshack.com/8-things-know-azure-cosmos-db-formerly-documentdb/
+
+Demystifying the Multi-Model Capabilities in Azure Cosmos DB
+https://www.pass.org/Community/PASSBlog/tabid/1476/entryid/881/Demystifying-the-Multi-Model-Capabilities-in-Azure-Cosmos-DB.aspx
+
+Common Azure Cosmos DB use cases
+https://docs.microsoft.com/en-us/azure/cosmos-db/use-cases
+
+Azure Cosmos DB: The industry’s first globally-distributed, multi-model database service
+https://azure.microsoft.com/en-us/blog/azure-cosmos-db-microsofts-globally-distributed-multi-model-database-service/

@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>HitchhikersGuideToTheCosoms.Demos.SQL</AssemblyName>
+    <RootNamespace>ChadGreen.HitchhikersGuideToTheCosmos.Demos.SQL</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Azure.Cosmos" Version="3.1.1" />
+  </ItemGroup>
+
+</Project>
