@@ -31,7 +31,7 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
 |-------|:---------|:-----|:-----|:-----|:----------|
 | [European Cloud Conference](https://www.chadgreen.com/speaking-engagements/european-cloud-conference/) | Nice, France | October 26 - 28, 2021 | TBA | TBA | Available After Presentation |
 | [Dallas & Austin Azure Meetup (March 2021)](https://www.meetup.com/azureaustin/events/273478878/) | Dallas & Austin, TX [[Virtual](https://www.meetup.com/azureaustin/events/273478878/)] | March 16, 2021 | 6:00 pm CDT | N/A | Available After Presentation |
-| [TDevConf](https://www.chadgreen.com/speaking-engagements/tdevconf/https://tdevconf.com/) | Tennessee [Virtual] | October 3, 2020 | 9:00 am CDT | Knoxville | Available After Presentation |
+| [TDevConf](https://www.chadgreen.com/speaking-engagements/tdevconf/https://tdevconf.com/) | Tennessee [Virtual] | October 3, 2020 | 9:00 am CDT | Knoxville | [Slides](https://github.com/TaleLearnCode/HitchhikersGuideToCosmos/blob/master/Presentations/The%20Hitchhicker's%20Guide%20to%20the%20Cosmos%20-%20TDevConf.pdf) |
 | [Boston Code Camp 33 <span style="color:red">(Event Canceled)</span>](https://www.bostoncodecamp.com/CC33/info) | Boston, MA | June 6, 2020 | N/A | N/A | N/A |
 | [Ignite the Tour Chicago <span style="color:red">(Event Canceled)</span>](https://www.microsoft.com/en-us/ignite-the-tour/chicago/) | Chicago, IL | April 15 - 16, 2020 | N/A | N/A | N/A |
 | [Ignite the Tour Government](https://www.microsoft.com/en-us/ignite-the-tour/washington-dc) | Washington, DC | February 7, 2020 | 1:45 pm EST | Theater 1 | [Slides](https://chadgreen.blob.core.windows.net/slides/Graphing%20Your%20Way%20Through%20the%20Cosmos%20-%20Ignite%20Government.pptx) |
