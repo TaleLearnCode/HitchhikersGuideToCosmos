@@ -16,7 +16,7 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
 - Learn about some of the common Cosmos DB use cases
 
 ## Type
-40/60/75-minute session
+45/60/75-minute session
 
 ## Tags
 * Azure
@@ -29,7 +29,8 @@ In this session, you will learn what you can do with Cosmos DB, the benefits of 
 ## Presentations
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:---------|:-----|:-----|:-----|:----------|
-| [European Cloud Conference](https://www.chadgreen.com/speaking-engagements/european-cloud-conference/) | Nice, France | October 26 - 28, 2021 | TBA | TBA | Available After Presentation |
+| [European Cloud Conference <span style="color:red">(Event Canceled)</span>](https://www.chadgreen.com/speaking-engagements/european-cloud-conference/) | Nice, France | October 26 - 28, 2021 | TBA | TBA | Available After Presentation |
+| [Music City Tech](https://whova.com/embedded/speaker_session_detail/music_202109/1891022/) | Nashville, TN [Virtual] | September 17, 2021 | 11:00 am CDT | N/A | [Slides](https://chadgreen.blob.core.windows.net/slides/HitchhickersGuideToTheCosmos-MusicCityTech.pdf) |
 | [Dallas & Austin Azure Meetup (March 2021)](https://www.meetup.com/azureaustin/events/273478878/) | Dallas & Austin, TX [[Virtual](https://www.meetup.com/azureaustin/events/273478878/)] | March 16, 2021 | 6:00 pm CDT | N/A | Available After Presentation |
 | [TDevConf](https://www.chadgreen.com/speaking-engagements/tdevconf/https://tdevconf.com/) | Tennessee [Virtual] | October 3, 2020 | 9:00 am CDT | Knoxville | [Slides](https://github.com/TaleLearnCode/HitchhikersGuideToCosmos/blob/master/Presentations/The%20Hitchhicker's%20Guide%20to%20the%20Cosmos%20-%20TDevConf.pdf) |
 | [Boston Code Camp 33 <span style="color:red">(Event Canceled)</span>](https://www.bostoncodecamp.com/CC33/info) | Boston, MA | June 6, 2020 | N/A | N/A | N/A |
